@@ -1,6 +1,5 @@
 ## Hi, I'm [Md.Arifur Rahman]👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
 <a href="https://twitter.com/mrsohelcse">
   <img align="left" alt="Sohel's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
