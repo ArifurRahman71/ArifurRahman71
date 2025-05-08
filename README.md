@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
+- 💬 Ask me about anything [here](https://linkedin.com/in/arifur-rahman-36a214278)
 - ⚡ Fun fact: I often play video games.
 
 
